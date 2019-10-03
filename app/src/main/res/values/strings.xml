@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">AirQuality</string>
+=======
+    <string name="app_name">AirQuailty</string>
+>>>>>>> fb012819c831951341d788aa234ea8fc053bef37
 </resources>

@@ -1,2 +1,6 @@
 include ':app'
+<<<<<<< HEAD
 rootProject.name='AirQuality'
+=======
+rootProject.name='AirQuailty'
+>>>>>>> fb012819c831951341d788aa234ea8fc053bef37
