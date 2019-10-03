@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-<<<<<<< HEAD
     package="com.example.airquality">
 
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-=======
-    package="com.example.airquailty">
-
-
->>>>>>> fb012819c831951341d788aa234ea8fc053bef37
     <uses-permission android:name="android.permission.INTERNET" />
 
-    <application
+    <application>
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
